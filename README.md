@@ -1,4 +1,4 @@
-# Notas y Bosquejos
+# How To
 
 La idea de este repositorio es tener un lugar en donde tener notas de diferentes temas.
 
