@@ -1,4 +1,4 @@
-# How To
+# FUNDAMENTALS
 
 La idea de este repositorio es tener un lugar en donde tener notas de diferentes temas.
 
@@ -17,3 +17,11 @@ Notas sobre mis pruebas de creación de un Servidor Ubuntu con Stack LAMP (Linux
 
 Notas sobre mis pruebas de creación de un Servidor Ubunto con Stack MEAN ó MERN (Mongodb ExpressJS Angular ó React NodeJS)
 > Angular o React... vamos a ver... me inclino más a probar con React por el momento
+
+## GIT-COURSE
+
+En esta carpeta se pueden encontrar algunos apuntes del curso del manejador de versiones git.
+
+## VIM
+
+He estado practicando un poco con vim, configuraciones y plugins para autocompletado.
